@@ -1,5 +1,7 @@
 # promisify-supertest
 ---
+[![npm version](https://badge.fury.io/js/promisify-supertest.svg)](http://badge.fury.io/js/promisify-supertest) [![Dependency Status](https://david-dm.org/ariporad/promisify-supertest.svg)](https://david-dm.org/ariporad/promisify-supertest) [![devDependency Status](https://david-dm.org/ariporad/promisify-supertest/dev-status.svg)](https://david-dm.org/ariporad/promisify-supertest#info=devDependencies) [![peerDependency Status](https://david-dm.org/ariporad/promisify-supertest/peer-status.svg)](https://david-dm.org/ariporad/promisify-supertest#info=peerDependencies)
+---
 [SuperTest](npm.im/supertest) + Promises. Uses native promises instead of
 bluebird.
 
