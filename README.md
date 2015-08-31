@@ -33,7 +33,7 @@ Then, just omit a callback, and it returnes a promise
 request(app)
 	.get('/')
 	.end()
-	.then(function(res) { // blah blah blah })
+	.then(function(res) { /* blah blah blah */ })
 	.catch(function(err) { throw err; });
 
 // But this still works too:
@@ -56,6 +56,11 @@ Check in the issue tracker for issues, then file a fix one of them and send a PR
 Please make sure to have your code comply with standard (I know, but it was easy):
 
     npm run lint
+
+
+And make sure it passes the tests (and please add more for any feature you add!):
+
+    npm run test
 
 ---
 
