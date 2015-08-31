@@ -1,0 +1,37 @@
+{
+  "name": "promisify-supertest",
+  "version": "1.0.0",
+  "description": "SuperTest + Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariporad/promisify-supertest.git"
+  },
+  "keywords": [
+    "SuperTest",
+    "promise",
+    "as",
+    "promised",
+    "promisify",
+    "superagent",
+    "test"
+  ],
+  "author": "Ari Porad <npm@ariporad.com> (http://github.com/ariporad)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariporad/promisify-supertest/issues"
+  },
+  "homepage": "https://github.com/ariporad/promisify-supertest#readme",
+  "devDependencies": {
+    "babel-eslint": "^4.1.0",
+    "cz-conventional-changelog": "^1.1.0",
+    "eslint-config-airbnb": "0.0.8",
+    "supertest": "1"
+  },
+  "peerDependencies": {
+    "supertest": "1"
+  }
+}
