@@ -38,5 +38,12 @@
   },
   "peerDependencies": {
     "supertest": "1"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Francis Brito",
+      "email": "fr.br94@gmail.com",
+      "url": "https://github.com/francisbrito"
+    }
+  ]
 }
